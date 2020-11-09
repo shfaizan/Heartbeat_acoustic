@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l4-Lc_v31g8FxQ9g9a1SefMgHgshITrV?usp=sharing)
+Try the model [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1l4-Lc_v31g8FxQ9g9a1SefMgHgshITrV?usp=sharing)
 # Heartbeat detection and classification using audio 
 
 ## How to use
